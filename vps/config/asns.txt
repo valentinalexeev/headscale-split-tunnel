@@ -1,0 +1,7 @@
+AS13238   # Yandex
+AS47541   # VK
+AS197695  # Ozon
+AS58024   # Wildberries
+AS51115   # T-Bank
+AS35419   # Sber
+AS8732    # VTB

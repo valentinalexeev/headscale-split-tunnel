@@ -1,0 +1,4 @@
+AS12389   # Rostelecom
+AS8359    # MTS
+AS31133   # MegaFon
+AS3216    # Beeline

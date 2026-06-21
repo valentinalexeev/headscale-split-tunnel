@@ -1,0 +1,5 @@
+.DS_Store
+
+# Headscale secrets and state
+headscale/headscale.yaml
+headscale/acl.json
